@@ -22,11 +22,11 @@ Write a program called `StudentGrades.java` that prints a table with a list of a
 ///////////////////\\\\\\\\\\\\\\\\\\\
 ==          Student Points          ==
 \\\\\\\\\\\\\\\\\\\///////////////////
-Name			Lab 	Bonus 	Total
----- 			--- 	----- 	-----
-Joe				43 		7 		50
-William 		50 		8 		58
-Mary Sue		39 		10 		49
+Name            Lab     Bonus   Total
+----            ---     -----   -----
+Joe             43      7       50
+William         50      8       58
+Mary Sue        39      10      49
 ```
 
 The requirements for the output are as follows:
@@ -85,6 +85,5 @@ Write a program `DiceTest.java` that simulates rolling a pair of dice. Print out
 Die 1 is a 3
 Die 2 is a 1
 Their total is 4
-
 ````
 
